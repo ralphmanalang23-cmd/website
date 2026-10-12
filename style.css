@@ -1,0 +1,85 @@
+p {color:whitesmoke;}
+h2 {color:whitesmoke;}
+h3 {color:whitesmoke;}
+h1 {color:whitesmoke;} 
+a {color:black;} 
+button {color:black;}
+
+hr {border: 1px solid whitesmoke;} 
+
+
+
+body {background-color:#8cbe8a;}
+
+a {
+ color: rgb(0, 0, 0);
+  background-color: color-mix(in hsl, hsl(125 60 90),rgb(100, 206, 233) 85%);
+  padding: 10px 8px;
+  text-decoration: none;
+  margin-right:6px; }
+
+a:hover {
+
+  background-color: color-mix(in hsl, hsl(125 60 90),rgb(61, 64, 231) 85%);
+
+}
+
+
+
+button{
+ color: rgb(0, 0, 0);
+  background-color: color-mix(in hsl, hsl(125 60 90),rgb(41, 214, 84) 85%);
+  padding: 10px 8px;
+  text-decoration: none;
+  margin-right:6px; }
+
+button:hover {
+
+  background-color: color-mix(in hsl, hsl(125 60 90),rgb(53, 134, 226) 85%);
+
+}
+
+
+
+
+
+
+
+p {font-family: "minecraft",sans serif;
+font-size: 24px;
+-webkit-text-stroke: 1px black;
+image-rendering:pixelated;
+text-shadow: 2px 2px 0px #3f3f3f
+
+
+}
+h2 {font-family: "minecraft",sans serif;
+font-size: 24px;
+-webkit-text-stroke: 1px black;
+image-rendering:pixelated;
+text-shadow: 2px 2px 0px #3f3f3f
+}
+h3 {font-family: "minecraft",sans serif;
+font-size: 24px; 
+-webkit-text-stroke: 1px black;
+image-rendering:pixelated;
+text-shadow: 2px 2px 0px #3f3f3f;
+}
+h1 {font-family: "minecraft",sans serif;
+font-size: 24px;
+-webkit-text-stroke: 1px black;
+image-rendering:pixelated;
+text-shadow: 2px 2px 0px #3f3f3f;
+}
+a {font-family: "minecraft",sans serif;
+font-size: 24px; 
+image-rendering:pixelated;
+text-shadow: 2px 2px 0px #3f3f3f;
+
+}
+
+button {font-family: "minecraft",sans serif;
+font-size: 14px; 
+image-rendering:pixelated;
+text-shadow: 2px 2px 0px #3f3f3f;
+}
